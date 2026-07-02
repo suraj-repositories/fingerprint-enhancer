@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4a757f5-c5b0-4e1a-81b2-3e6f9e0d13a7" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/dataset/train/input/2198926985_sagufta_ansari_Finger1.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/train/input/2198926985_sagufta_ansari_Finger2.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/train/input/2198926985_sagufta_ansari_Finger3.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/train/input/2198926985_sagufta_ansari_Finger4.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/train/input/2198926985_sagufta_ansari_Finger5.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fingerprint_enhancer/fingerprint_image_enhancer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/input.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/input.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enhanced/output.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enhanced/sharped-output.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
